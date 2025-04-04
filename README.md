@@ -26,6 +26,14 @@ The computer will randomly select its choice.
 The game determines the winner based on standard rules.
 
 📷 Screenshot (Optional)
+**Sample Output**
+--- Rock Paper Scissors ---
+Enter rock, paper, or scissors: rock
+
+You chose: rock  
+Computer chose: scissors  
+🎉 You win!
+
 
 🤝 Contributing
 Feel free to fork this repository and submit pull requests for improvements.
